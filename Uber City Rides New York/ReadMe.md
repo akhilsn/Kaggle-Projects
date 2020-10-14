@@ -1,0 +1,1 @@
+### In this notebook I have performed EDA on the Uber dataset for july14 data (uber-raw-data-jul14.csv). My objective is to use geopy and Folium in order to visualize and draw out important points of interest such as Seasonlity etc.
